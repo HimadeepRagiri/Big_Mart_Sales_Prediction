@@ -38,7 +38,7 @@ The project involves the following steps:
 
 ## Steps to Run
 
-1. Clone this repository: https://github.com/HimadeepRagiri/ML-and-DL-Projects.git
+1. Clone this repository: https://github.com/HimadeepRagiri/Big_Mart_Sales_Prediction.git
 2. Install required libraries:
 3. Run the script: `Big_Mart_Sales_Prediction.ipynb`
 
